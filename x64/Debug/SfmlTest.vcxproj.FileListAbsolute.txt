@@ -1,0 +1,2 @@
+X:\Users\Olivier\source\repos\SfmlTest\x64\Debug\SfmlTest.exe
+X:\Users\Olivier\source\repos\SfmlTest\x64\Debug\SfmlTest.pdb

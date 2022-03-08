@@ -1,0 +1,9 @@
+﻿  main.cpp
+  The contents of <optional> are available only with C++17 or later.
+X:\Users\Olivier\source\repos\SfmlTest\main.cpp(302,55): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+X:\Users\Olivier\source\repos\SfmlTest\main.cpp(435,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Users\Olivier\source\repos\SfmlTest\main.cpp(437,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+X:\Users\Olivier\source\repos\SfmlTest\main.cpp(551,30): warning C4305: 'argument': truncation from 'double' to 'float'
+X:\Users\Olivier\source\repos\SfmlTest\main.cpp(601,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Users\Olivier\source\repos\SfmlTest\main.cpp(601,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SfmlTest.vcxproj -> X:\Users\Olivier\source\repos\SfmlTest\x64\Debug\SfmlTest.exe
